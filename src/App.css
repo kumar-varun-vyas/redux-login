@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar li{
+  display: inline;
+  float: left;
+}
+
+.navbar li :hover{
+  background-color: gray;
+ 
+}
+
